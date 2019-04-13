@@ -1,0 +1,38 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background: white;
+    font-size:14pt;
+    color:grey;
+    
+}
+h1{
+    color:black;
+    font-weight: inherit;
+    font-size: 20pt;
+    margin-top: 100px;
+   
+}
+
+
+select{
+    position: absolute;
+    left:715px;
+    padding: 0.10em;
+}
+
+input[type="submit"]{
+    background: grey;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    color: white;
+    font-size: 14pt;
+   
+}
+
+input[type="text"]{
+    padding: 0.5em;
+}
+
+
+
+

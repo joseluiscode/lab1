@@ -1,0 +1,17 @@
+body {
+    color: white;
+    line-height: 1.6;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 1.5em;
+    background: #0D8E7A;
+}
+
+input[type="submit"]{
+	border-radius: 0.5em;
+	color:white;
+	padding: 0.5em;
+	height: 50px;
+	width: 100px;
+	background-color: #0D778E;
+	font-family: 'Quicksand', sans-serif 18pt;
+}

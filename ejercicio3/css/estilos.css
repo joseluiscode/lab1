@@ -1,0 +1,50 @@
+body{
+    color: white;
+    line-height: 1.6;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 1.5em;
+    background: #0D8E7A;
+}
+        table{
+            border-radius: 8px;
+            margin-left: auto;
+            margin-right: 300px;
+            margin-top: 50px;
+            border:orange solid 6px;
+        }
+
+        table[id="integrantes"]{
+           border-radius: 8px;
+            margin-left: auto;
+            margin-right:auto;
+            margin-top: 50px;
+             border:blue solid 6px;
+        }
+
+td {
+   width: 25%;
+   text-align: left;
+}
+
+td [id="otro"]{
+   width: auto;
+   text-align: left;
+   position: relative;
+}
+td [id="es"]{
+    position: relative;
+   width: auto;
+   text-align: left;
+}
+
+
+
+h4{
+color.white;
+}
+
+img{
+position: absolute;
+left:750px;
+padding: 25px;
+ }
